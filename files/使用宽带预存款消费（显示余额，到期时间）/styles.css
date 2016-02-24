@@ -361,3 +361,28 @@
   width:272px;
   white-space:nowrap;
 }
+#u27 {
+  position:absolute;
+  left:77px;
+  top:220px;
+  width:234px;
+  height:21px;
+  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
+  font-weight:200;
+  font-style:normal;
+  font-size:20px;
+}
+#u27_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:234px;
+  height:21px;
+}
+#u28 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:234px;
+  white-space:nowrap;
+}
