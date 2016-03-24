@@ -1073,3 +1073,28 @@
   width:100px;
   word-wrap:break-word;
 }
+#u88 {
+  position:absolute;
+  left:434px;
+  top:54px;
+  width:530px;
+  height:0px;
+  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
+  font-weight:200;
+  font-style:normal;
+  font-size:16px;
+}
+#u88_seg0 {
+  position:absolute;
+  left:-4px;
+  top:-10px;
+  width:544px;
+  height:20px;
+}
+#u89 {
+  position:absolute;
+  left:215px;
+  top:-16px;
+  width:100px;
+  word-wrap:break-word;
+}
