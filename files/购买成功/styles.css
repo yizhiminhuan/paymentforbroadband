@@ -400,3 +400,28 @@
   color:#000000;
   text-align:center;
 }
+#u29 {
+  position:absolute;
+  left:109px;
+  top:567px;
+  width:181px;
+  height:23px;
+  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
+  font-weight:200;
+  font-style:normal;
+  font-size:18px;
+}
+#u29_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:181px;
+  height:23px;
+}
+#u30 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:181px;
+  white-space:nowrap;
+}
